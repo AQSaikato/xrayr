@@ -15,8 +15,8 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board, PMpanel, Proxypanel
     ApiConfig:
-      ApiHost: "https://aqvpn.xyz/"
-      ApiKey: "aqsaikatodaynecacban"
+      ApiHost: "https://zingngu.net/"
+      ApiKey: "zingnguvaicalonchungmaya"
       NodeID: 1
       NodeType: V2ray # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
