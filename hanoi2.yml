@@ -17,7 +17,7 @@ Nodes:
     ApiConfig:
       ApiHost: "https://aqvpn.me/"
       ApiKey: "aqsaikatodaynecacban"
-      NodeID: 1
+      NodeID: 37
       NodeType: V2ray # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type
@@ -58,7 +58,7 @@ Nodes:
     ApiConfig:
       ApiHost: "https://aqvpn.me/"
       ApiKey: "aqsaikatodaynecacban"
-      NodeID: 1
+      NodeID: 4
       NodeType: V2ray # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type
